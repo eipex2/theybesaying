@@ -1,7 +1,16 @@
+<!--
+@Author: eipex
+@Date:   2017-08-30T09:57:54-05:00
+@Last modified by:   eipex
+@Last modified time: 2017-09-05T08:52:53-05:00
+-->
+
+
+
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MyApp</name>
-    <description>An awesome Ionic/Cordova app.</description>
+    <name>Theybesaying</name>
+    <description>Theybesaying</description>
     <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
     <content src="index.html" />
     <access origin="*" />

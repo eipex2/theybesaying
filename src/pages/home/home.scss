@@ -1,3 +1,60 @@
+// @Author: eipex
+// @Date:   2017-05-30T10:07:12-05:00
+// @Last modified by:   eipex
+// @Last modified time: 2017-09-04T13:31:49-05:00
+
+
+
 page-home {
 
+}
+
+.title{
+  font-size: 18px;
+  background:dimgrey;
+  font-weight: 600;
+  color:white;
+}
+
+.gif-container{
+  height:320px;
+  width:100%;
+  background: linear-gradient(to left, rgb(35, 37, 38), rgb(65, 67, 69));
+}
+
+.gif{
+  //background-image: url('../../assets/gifs/giphy-downsized.gif');
+  height:300px;
+  width:320px;
+  max-width: 320px;
+  max-height: 300px;
+  min-width: 320px;
+  min-height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:auto;
+  // height:50%;
+  // width:100%;
+}
+
+.btn{
+  height: 36px;
+  width: 36px;
+}
+
+.line{
+  display: flex;
+  justify-content: center;
+}
+
+.focused-line{
+  font-weight: 600;
+  background:dimgrey;
+  color:white;
+  height:60px;
+  width:100%;
+  font-size:16px;
+  -webkit-box-shadow:0px 1px 1px rgba(244, 244, 244, 0.11);
+ -moz-box-shadow:0px 1px 1px rgba(244, 244, 244, 0.11);
+ box-shadow:0px 1px 1px rgba(244, 244, 244, 0.11);
 }
